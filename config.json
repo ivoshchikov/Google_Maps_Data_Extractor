@@ -1,0 +1,20 @@
+{
+  "delays": {
+    "startup": 2.0,
+    "click": 1.0,
+    "search": 3.0
+  },
+  "urls": {
+    "base": "https://www.google.com/maps"
+  },
+  "selectors": {
+    "result_card": "hfpxzc",
+    "next_page": ".pagination-next",
+    "search_input": "input#searchboxinput",
+    "detail_name": "DUwDvf",
+    "detail_rating": "//div[contains(@class,'F7nice')]//span[@aria-hidden='true']",
+    "detail_address": "//div[contains(@class, 'Io6YTe') and contains(@class, 'kR99db')]",
+    "detail_reviews_option1": "//div[contains(@class,'F7nice')]//span[contains(@aria-label, 'отзыва')]",
+    "detail_reviews_option2": "//button[contains(@aria-label,'отзывы')]"
+  }
+}
